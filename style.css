@@ -1,0 +1,37 @@
+header{
+    background-color: #2b9de3e8;
+    padding: 2px;
+}
+body{
+    background-color: #e5fbfc;
+}
+
+.sobre-mim{
+    background-color: #071f2ee8;
+    padding: 2px;
+}
+.sobremim{
+    background-color: #2b9de3e8;
+    padding: 2px;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    margin: 0px 0px 10px;
+
+    font-size: 20px;
+    color: black;
+
+}
+.menu li{
+    background-color: #8cc9efe8;
+    padding: 5px 10px;
+}
+
+.menu a {
+  color: black;
+  text-decoration: none;          /* Tira o sublinhado do link */
+  font-weight: bold;
+}
+
