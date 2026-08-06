@@ -1,7 +1,15 @@
 header{
     background-color: #2b9de3e8;
     padding: 2px;
+    margin: 0px 0px 10px;
 }
+
+.titulo{
+    background-color: #7dbbe8e8;
+    padding: 2px;
+    margin: 0px 0px 10px;
+}
+
 body{
     background-color: #e5fbfc;
 }
@@ -27,6 +35,9 @@ body{
 .menu li{
     background-color: #8cc9efe8;
     padding: 5px 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
 }
 
 .menu a {
