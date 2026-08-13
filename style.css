@@ -11,7 +11,9 @@ header{
 }
 
 body{
-    background-color: #e5fbfc;
+    background-color: #545555;
+    color: rgb(174, 174, 174);
+    font-family: Helvetica, sans-serif;
 }
 
 .sobre-mim{
@@ -44,5 +46,16 @@ body{
   color: black;
   text-decoration: none;          /* Tira o sublinhado do link */
   font-weight: bold;
+}
+
+.cards{
+    max-width: 250px;
+    margin: auto;
+    position: center;
+
+    background-color: #787979e8;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.1);
+    border-radius: 9px;
+    
 }
 
